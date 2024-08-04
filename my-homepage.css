@@ -11,3 +11,7 @@ img {
 figcaption {
 margin-bottom: 5px;
 }
+
+figure {
+  margin-left: -30px;
+}
