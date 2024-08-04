@@ -2,3 +2,12 @@ body {
   font-family: verdana;
   background-color: rgb(255, 0, 0);
 }
+
+img {
+  max-height: 200px;
+  max-width: 200px;
+}
+
+figcaption {
+margin-top: 5px;
+}
